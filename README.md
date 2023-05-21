@@ -64,11 +64,11 @@ password: pj8H9NVruO7i
 
 Asimismo, también se pueden visualizar los componentes del _stack_ PLONK implementados, como pueden ser _Prometheus_ y _NATS_:
 
-![iamgen2](./imgs/Imagen2.png)
+![iamgen2](https://drive.google.com/file/d/13CqAuNxUr0LLQ2Vo8XZf4OOEfvBsbCqc/view?usp=share_link)
 
 Tal y como se ha comentado, se puede acceder a la interfaz gráfica de OpenFaaS a través de la dirección URL (http://127.0.0.1:8080/ui/): 
 
-![iamgen3](./imgs/Imagen3.png)
+![iamgen3](https://drive.google.com/file/d/1ZiePi-eV_VwZijCOduCEiSR9GJ2OJIvt/view?usp=share_link)
 
 <a name="pto11"></a>
 ## 1.1.	Problemas encontrados
